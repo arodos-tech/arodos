@@ -42,3 +42,4 @@ npm run dev
 - If chatbot doesn't respond, check your API key in `.env`
 - Make sure to restart the dev server after adding the API key
 - Check browser console for any errors
+hi
